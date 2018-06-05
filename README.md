@@ -14,8 +14,12 @@ Project File - A working file that can be changed with upload. This will corresp
 Samples - Music files available for download by contributors.
 
 ## Schedule
-Week 1 - Create back-end of site, User Auth, Views and Models, Test functionality
+Week 1 - Create basic front-end. Features to work on - User Page, New Sprout 
 
-Week 2 - Work on front end of Site
+Week 2 - Work on front end of Site. Features/Pages to work on - Project file upload, Sample upload, Public/Private page.
 
 Week 3 - Test and Polish
+
+## Features Needed For Basic Functionality
+
+Project Upload, Sample upload/download, pack upload/download.
